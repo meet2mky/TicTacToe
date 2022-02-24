@@ -1,2 +1,2 @@
 # TickTacToe
-TickTacToe Design in JAVA
+TicTacToe Design in JAVA
